@@ -8,3 +8,13 @@ C:\Users\jorge\source\repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\
 C:\Users\jorge\source\repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.Form1.resources
 C:\Users\jorge\source\repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.exe
 C:\Users\jorge\source\repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.pdb
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\bin\Debug\PracticaJSMDAWZ.exe.config
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\bin\Debug\PracticaJSMDAWZ.exe
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\bin\Debug\PracticaJSMDAWZ.pdb
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.csprojAssemblyReference.cache
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.Form1.resources
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.Properties.Resources.resources
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.csproj.GenerateResource.cache
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.csproj.CoreCompileInputs.cache
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.exe
+C:\Users\PracticaGIT\Source\Repos\JSMDAWZ\PracticaGIT\PracticaJSMDAWZ\PracticaJSMDAWZ\obj\Debug\PracticaJSMDAWZ.pdb
